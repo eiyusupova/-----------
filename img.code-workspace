@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../img"
+		},
+		{
+			"path": "../../fonts"
+		},
+		{
+			"path": "../../css"
+		},
+		{
+			"path": "../../.vscode"
+		}
+	]
+}
